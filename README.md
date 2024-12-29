@@ -1,4 +1,4 @@
-<p>Hello, I have created a basic API for the Razorpay Payment Gateway for card payments</p>
+<p>Hello, I have created a basic custom API like Razorpay that accepts card payments</p>
 <b>The Requirements are:</b>
 <ul>
   <li>Installation of Node.JS</li>
